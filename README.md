@@ -1,1 +1,1 @@
-- [DEMO LINK](https://tempiqq.github.io/react-typescript-starter-pack/)
+- [DEMO LINK](https://tempiqq.github.io/react-todo-app-with-api/)
